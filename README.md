@@ -21,7 +21,6 @@ const Discord = require("discord.js-v11")
 ```js
 const token   = "token" 
 // https://discord.com/developers/applications
-});
 ```
 
 ### Change The URL To Use Your API
